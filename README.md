@@ -1,6 +1,6 @@
 <img src="./assets/header.svg" width="100%" alt="KIM HYUNSEOK" />
 
-## 🛠️ Tech Stack · 기술 스택
+## Tech Stack
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
@@ -80,7 +80,7 @@
   <img src="./assets/stack/powershell.svg" alt="PowerShell" />
 </p>
 
-## 📊 GitHub Stats · 깃허브 통계
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hyunsuki5329&amp;theme=dracula&amp;hide_border=true&amp;disable_animations=true" width="495" alt="GitHub contributions and current and longest contribution streaks for hyunsuki5329" />
