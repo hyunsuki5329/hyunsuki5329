@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title">
+  <title id="title">KIM HYUNSEOK</title>
+  <defs>
+    <linearGradient id="night" x2="1" y2=".25" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101c31"/>
+      <stop offset=".64" stop-color="#162a47"/>
+      <stop offset="1" stop-color="#29374f"/>
+    </linearGradient>
+    <linearGradient id="tide">
+      <stop stop-color="#9acdf7"/>
+      <stop offset=".54" stop-color="#659cc5"/>
+      <stop offset="1" stop-color="#a6a1dd"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1000" height="180" rx="12"/></clipPath>
+    <path id="contour" d="M-20 5C158 74 303 7 460 -12S704 -27 808 33S939 123 1020 100"/>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="180" fill="url(#night)"/>
+    <path fill="#344d70" d="M0 0H1000V126C921 137 865 86 788 52C681 5 613 -4 481 11C335 28 147 84 0 46Z"/>
+    <path fill="#53749a" d="M0 0H1000V107C922 120 863 76 797 37C691 -25 580 -17 463 0C307 25 142 68 0 36Z"/>
+    <path fill="url(#tide)" d="M0 0H1000V85C918 95 878 61 813 24C759 -6 707 -16 651 -19C557 -23 472 -10 380 7C239 34 122 57 0 26Z"/>
+    <g fill="none" stroke="#c1dbf2" stroke-width="1" opacity=".34">
+      <use href="#contour" transform="translate(0 7)"/>
+      <use href="#contour" transform="translate(0 21)"/>
+      <use href="#contour" transform="translate(0 36)"/>
+      <use href="#contour" transform="translate(0 52)" opacity=".48"/>
+    </g>
+    <text x="44" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="61" letter-spacing="1.3" fill="#e3f2ff">KIM HYUNSEOK</text>
+  </g>
+</svg>

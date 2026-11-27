@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" aria-hidden="true">
+  <defs>
+    <linearGradient id="tide">
+      <stop stop-color="#709bbe"/><stop offset=".55" stop-color="#888bbb"/><stop offset="1" stop-color="#bd7dab"/>
+    </linearGradient>
+  </defs>
+  <path opacity=".43" fill="#887baa" d="M0 12C212 48 363 42 568 15S841 10 1000 24V52H0Z"/>
+  <path opacity=".88" fill="url(#tide)" d="M0 36C176 54 306 14 489 21S783 53 1000 15V52H0Z"/>
+</svg>
